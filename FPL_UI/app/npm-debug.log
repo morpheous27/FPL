@@ -1,0 +1,118 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'install' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose readDependencies loading dependencies from D:\projects\FPLUI\FPL_UI\package.json
+5 verbose install where, deps [ 'D:\\projects\\FPLUI\\FPL_UI',
+5 verbose install   [ 'bower',
+5 verbose install     'http-server',
+5 verbose install     'jasmine-core',
+5 verbose install     'karma',
+5 verbose install     'karma-chrome-launcher',
+5 verbose install     'karma-firefox-launcher',
+5 verbose install     'karma-jasmine',
+5 verbose install     'karma-junit-reporter',
+5 verbose install     'protractor',
+5 verbose install     'angular-material' ] ]
+6 verbose install where, peers [ 'D:\\projects\\FPLUI\\FPL_UI', [] ]
+7 verbose installManyTop reading for lifecycle D:\projects\FPLUI\FPL_UI\package.json
+8 info preinstall fpl_ui@0.0.0
+9 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\angular-material\package.json
+10 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\bower\package.json
+11 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\http-server\package.json
+12 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\jasmine-core\package.json
+13 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\karma\package.json
+14 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-chrome-launcher\package.json
+15 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-firefox-launcher\package.json
+16 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-jasmine\package.json
+17 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-junit-reporter\package.json
+18 verbose installManyTop reading scoped package data from D:\projects\FPLUI\FPL_UI\node_modules\protractor\package.json
+19 info package.json angular-material@1.1.1 No license field.
+20 verbose readDependencies loading dependencies from D:\projects\FPLUI\FPL_UI\package.json
+21 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\angular-material\package.json
+22 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\bower\package.json
+23 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\http-server\package.json
+24 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\jasmine-core\package.json
+25 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\karma\package.json
+26 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-chrome-launcher\package.json
+27 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-firefox-launcher\package.json
+28 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-jasmine\package.json
+29 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\karma-junit-reporter\package.json
+30 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\protractor\package.json
+31 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\bower\package.json
+32 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\bower.cmd\package.json
+33 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\hs\package.json
+34 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\hs.cmd\package.json
+35 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\http-server\package.json
+36 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\http-server.cmd\package.json
+37 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\karma\package.json
+38 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\karma.cmd\package.json
+39 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\protractor\package.json
+40 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\protractor.cmd\package.json
+41 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\webdriver-manager\package.json
+42 verbose targetResolver reading package data from D:\projects\FPLUI\FPL_UI\node_modules\.bin\webdriver-manager.cmd\package.json
+43 verbose already installed skipping karma-firefox-launcher@^0.1.7 D:\projects\FPLUI\FPL_UI
+44 verbose already installed skipping karma-jasmine@^0.3.8 D:\projects\FPLUI\FPL_UI
+45 verbose already installed skipping karma-junit-reporter@^0.4.1 D:\projects\FPLUI\FPL_UI
+46 verbose already installed skipping protractor@^3.2.2 D:\projects\FPLUI\FPL_UI
+47 verbose already installed skipping angular-material@1.1.1 D:\projects\FPLUI\FPL_UI
+48 verbose already installed skipping bower@^1.7.7 D:\projects\FPLUI\FPL_UI
+49 verbose already installed skipping jasmine-core@^2.4.1 D:\projects\FPLUI\FPL_UI
+50 verbose already installed skipping http-server@^0.9.0 D:\projects\FPLUI\FPL_UI
+51 verbose already installed skipping karma@^0.13.22 D:\projects\FPLUI\FPL_UI
+52 verbose already installed skipping karma-chrome-launcher@^0.2.3 D:\projects\FPLUI\FPL_UI
+53 silly install resolved []
+54 info build D:\projects\FPLUI\FPL_UI
+55 info linkStuff fpl_ui@0.0.0
+56 silly linkStuff fpl_ui@0.0.0 has D:\projects\FPLUI as its parent node_modules
+57 verbose linkBins fpl_ui@0.0.0
+58 verbose linkMans fpl_ui@0.0.0
+59 verbose rebuildBundles fpl_ui@0.0.0
+60 verbose rebuildBundles [ '.bin',
+60 verbose rebuildBundles   'angular-material',
+60 verbose rebuildBundles   'bower',
+60 verbose rebuildBundles   'http-server',
+60 verbose rebuildBundles   'jasmine-core',
+60 verbose rebuildBundles   'karma',
+60 verbose rebuildBundles   'karma-chrome-launcher',
+60 verbose rebuildBundles   'karma-firefox-launcher',
+60 verbose rebuildBundles   'karma-jasmine',
+60 verbose rebuildBundles   'karma-junit-reporter',
+60 verbose rebuildBundles   'protractor' ]
+61 info install fpl_ui@0.0.0
+62 info postinstall fpl_ui@0.0.0
+63 verbose unsafe-perm in lifecycle true
+64 info fpl_ui@0.0.0 Failed to exec postinstall script
+65 verbose stack Error: fpl_ui@0.0.0 postinstall: `bower install`
+65 verbose stack Exit status 1
+65 verbose stack     at EventEmitter.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\lifecycle.js:217:16)
+65 verbose stack     at emitTwo (events.js:87:13)
+65 verbose stack     at EventEmitter.emit (events.js:172:7)
+65 verbose stack     at ChildProcess.<anonymous> (C:\Program Files\nodejs\node_modules\npm\lib\utils\spawn.js:24:14)
+65 verbose stack     at emitTwo (events.js:87:13)
+65 verbose stack     at ChildProcess.emit (events.js:172:7)
+65 verbose stack     at maybeClose (internal/child_process.js:827:16)
+65 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:211:5)
+66 verbose pkgid fpl_ui@0.0.0
+67 verbose cwd D:\projects\FPLUI\FPL_UI\app
+68 error Windows_NT 10.0.10586
+69 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+70 error node v4.4.7
+71 error npm  v2.15.8
+72 error code ELIFECYCLE
+73 error fpl_ui@0.0.0 postinstall: `bower install`
+73 error Exit status 1
+74 error Failed at the fpl_ui@0.0.0 postinstall script 'bower install'.
+74 error This is most likely a problem with the fpl_ui package,
+74 error not with npm itself.
+74 error Tell the author that this fails on your system:
+74 error     bower install
+74 error You can get information on how to open an issue for this project with:
+74 error     npm bugs fpl_ui
+74 error Or if that isn't available, you can get their info via:
+74 error
+74 error     npm owner ls fpl_ui
+74 error There is likely additional logging output above.
+75 verbose exit [ 1, true ]

@@ -1,0 +1,29 @@
+
+<div ng-controller="appController as ctrl">
+
+	<!-- custom-Button label="Login to facebook"></custom-Button-->
+	<div layout="row" layout-padding="" layout-wrap="" layout-margin=""
+		ng-cloak="" layout-align="space-around"
+		class="whiteframedemoDirectiveInterpolation">
+		<div class="padded" md-whiteframe="{{ctrl.elevation}}" flex="100"
+			flex-gt-sm="95" layout="column" layout-align="center center"
+			style="height: 80vh">
+			<p style="font-size: 20pt; padding-bottom: 0px"
+				layout-align="center center">Welcome to FootyFan!</p>
+			<p style="font-size: 15pt;" layout-align="center center">The
+				fantasy football league by the fans</p>
+			<div layout-align="center center" style="padding: 20px"></div>
+			<md-button ng-click="checkCall()" class="md-raised"
+				style="text-transform:none;width:250px">Sign up to start
+			having some fun</md-button>
+			<md-button class="md-raised md-primary"
+				style="text-transform:none;width:250px">Login via
+			Facebook</md-button>
+			<div layout-align="center center">
+				<a href="www.google.com"><font color="black"><u>Already
+							a FootyFan? Sign in</u></font></a>
+			</div>
+		</div>
+	</div>
+
+	</div>
