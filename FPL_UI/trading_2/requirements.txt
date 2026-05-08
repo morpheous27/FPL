@@ -1,0 +1,8 @@
+streamlit
+       yfinance
+       xgboost
+       pandas
+       plotly
+       google-generativeai
+       ta
+       scikit-learn
